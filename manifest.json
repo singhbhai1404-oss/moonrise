@@ -1,0 +1,14 @@
+{
+  "background_color": "#fff4b4",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Moonrise : Chatting App",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Moonrise",
+  "start_url": "/moonrise/",
+  "theme_color": "#ffa4a4",
+  "id": "com.moonrise.chat",
+  "description": "Moonrise is a chatting app which is still in its development stage.",
+  "lang": "en"
+}
