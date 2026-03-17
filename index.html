@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Moonrise 🌙</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="splash">Moonrise 🌙</div>
+
+<div id="app" style="display:none;">
+
+  <input id="usernameInput" placeholder="Username">
+  <input id="roomInput" placeholder="Room code">
+  <button onclick="joinRoom()">Join</button>
+
+  <div id="messages"></div>
+
+  <input id="messageInput" placeholder="Message">
+  <button id="sendBtn">Send</button>
+
+</div>
+
+<!-- Message Menu -->
+<div id="menu" style="display:none;">
+  <button id="editMsg">Edit</button>
+  <button id="deleteMsg">Delete</button>
+  <button id="reactMsg">React</button>
+</div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
