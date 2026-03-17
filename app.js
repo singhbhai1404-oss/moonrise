@@ -9,7 +9,7 @@ import {
 
 // 🔥 CONFIG
 const firebaseConfig = {
-  apiKey: "AlzaSyAX6o6USqqHI62II-byRFAHrOqUsuGzGCE",
+  apiKey: "AIzaSyAX6o6USqqHI62II-byRFAHrOqUsuGzGCE",
   authDomain: "moonrise-7b507.firebaseapp.com",
   projectId: "moonrise-7b507",
   storageBucket: "moonrise-7b507.firebasestorage.app",
