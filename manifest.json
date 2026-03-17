@@ -12,3 +12,7 @@
   "description": "Moonrise is a chatting app which is still in its development stage.",
   "lang": "en"
 }
+{
+  "src": "launchericon-192x192.png",
+  "sizes": "192x192",
+  "type": "image/png"
