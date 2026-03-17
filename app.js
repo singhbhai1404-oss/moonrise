@@ -177,10 +177,4 @@ window.addEventListener("beforeunload", async () => {
   }, { merge: true });
 });
 
-// 🌙 SPLASH FIX
-window.onload = () => {
-  setTimeout(() => {
-    document.getElementById("splash").style.display = "none";
-    document.getElementById("app").style.display = "block";
-  }, 1000);
-};
+
